@@ -1,5 +1,5 @@
-# ocaml-tree-sitter-&lt;LANG&gt;
+# ocaml-tree-sitter-javascript
 
-Generated &lt;LANG&gt; parser.
+Generated JavaScript parser.
 
 [Instructions for updating this repo](https://github.com/returntocorp/ocaml-tree-sitter-languages/blob/master/doc/release.md)
