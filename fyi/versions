@@ -1,0 +1,32 @@
+File: semgrep-grammars/src/tree-sitter-javascript/LICENSE
+Git repo name: tree-sitter-javascript
+Latest commit in repo: 40a14276269af63cc45e67f5c1ca644c4560354b
+Last change in file:
+  commit 236a8dc0e5116ca1aca483b1a90df07f4bf3177e
+  Author: Max Brunsfeld <maxbrunsfeld@gmail.com>
+  Date:   Wed Jul 30 00:40:50 2014 -0700
+  
+      Initial commit
+---
+File: semgrep-grammars/src/tree-sitter-javascript/grammar.js
+Git repo name: tree-sitter-javascript
+Latest commit in repo: 40a14276269af63cc45e67f5c1ca644c4560354b
+Last change in file:
+  commit e4eb58243f28eb5a6a7687e51115fb3e77d2891a
+  Author: Martin Jambon <martin@returntocorp.com>
+  Date:   Mon Apr 19 17:33:16 2021 -0700
+  
+      Remove conflict declaration that was left over by accident
+---
+File: semgrep-grammars/src/semgrep-javascript/grammar.js
+Git repo name: ocaml-tree-sitter-languages
+Latest commit in repo: 13bfbba521ac1f25b07a7791ef58948d707712d0
+Last change in file:
+  commit 6242c6ab754a36de7553e8617750961c02de83b2
+  Author: Martin Jambon <martin@mjambon.com>
+  Date:   Mon Jun 28 21:23:25 2021 -0700
+  
+      Remove semgrep syntax extensions. The mechanism for extending grammars
+      is still in place, though. It should be removed at some point to
+      simplify things.
+---
